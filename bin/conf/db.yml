@@ -1,0 +1,8 @@
+host: "0.0.0.0:8020"
+db: 
+    url: 192.168.138.128
+    user: root
+    password: 1234
+    databasename: yourdb
+    port: 3306
+    maxconn: 5
